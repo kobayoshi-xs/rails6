@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+.slick-area h2 {
+    text-align: center;
+    color: white;
+}
+
+.slider {
+    list-style: none;
+    padding: 0;
+}
+
+.slick-list {
+    margin: 0 auto;
+    width: 45%;
+}
+
+.slick-slide {
+    height: auto;
+}
+
+li {
+    width: auto;
+}
+
+img {
+    width: auto;
+}
+.slick-prev
+{
+    left: 370px;
+}
+.slick-next
+{
+    right: 370px;
+}
+
+/*dotsのクラス
+.slick-dots li button {
+    
+}*/
